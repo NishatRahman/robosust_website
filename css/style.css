@@ -537,3 +537,48 @@ height: 200px;
 }
 
 
+/*<--------------------QUOTES--------------------->*/
+#quotes{
+	background-color:white;
+	background-size: auto;
+	max-height: 1100px;
+}
+
+
+.q-img{
+	max-width: 50%;
+	height: auto;
+  overflow: hidden;
+  border-radius: 50%;
+  position: relative;
+	margin-top: 100px;
+}
+
+.q-text{
+	color: black;
+	font-style: italic;
+	font-size: 1.8vw;
+	max-width: 50%;
+	text-align:left;
+	margin-top: 100px;
+	margin-left: 55%;
+	position:relative;
+}
+
+.q-img-2{
+	max-width: 50%;
+	height: auto;
+  overflow: hidden;
+  border-radius: 50%;
+  position:relative;
+	float: right;
+}
+
+.q-text-2{
+	color: black;
+	font-style: italic;
+	font-size: 1.8vw;
+	max-width: 50%;
+	text-align: left;
+	margin-top: 150px;
+}
